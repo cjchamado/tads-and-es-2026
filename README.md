@@ -1,7 +1,8 @@
 # ES & TADS - 2026
 
-Projeto exclusivo para uso didático das disciplinas de Engenharoa de Software e Tecnologia em Análise e Desenvolvimento de Sistemas.
-
+Projeto exclusivo para uso didático na disciplina de **Programação Orientada a Objetos para Web (POO-WEB)** dos cursos:
+- **Engenharia de Software (ES)**
+- **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**.
 
 # Setup
 
