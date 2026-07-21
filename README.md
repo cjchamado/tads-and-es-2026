@@ -12,6 +12,9 @@ git clone git@github.com:cjchamado/tads-and-es-2026.git poo-web
 ```
 
 ## Up
+```sh
+cd poo-web
+```
 
 ```sh
 docker compose up --build
